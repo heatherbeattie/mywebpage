@@ -4,10 +4,7 @@ output_dir: "docs"
 output:  
   html_document:  
     self_contained: no
-    css: style.css
     theme: flatly  
+    css: style.css
 navbar:
   title: "Heather Beattie"
-  right:
-    text: "CV"
-    href: cv.html
