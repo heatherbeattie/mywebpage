@@ -3,5 +3,5 @@ title: "Heather Beattie"
 ---
 
 I am a postgraduate student in the University of Glasgow's
-[Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
-I work with [Helena Paterson](https://www.gla.ac.uk/schools/psychologyneuroscience/staff/helenapaterson/)
+[School of Psychology and Neuroscience](https://www.gla.ac.uk/schools/psychologyneuroscience/).
+My supervisor is [Dr Helena Paterson](https://www.gla.ac.uk/schools/psychologyneuroscience/staff/helenapaterson/). My thesis topic is...
