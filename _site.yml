@@ -8,3 +8,6 @@ output:
     css: style.css
 navbar:
   title: "Heather Beattie"
+  right:
+    - text: "CV"
+      href: cv.rmd
