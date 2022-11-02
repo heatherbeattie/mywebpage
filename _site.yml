@@ -10,4 +10,4 @@ navbar:
   title: "Heather Beattie"
   right:
     - text: "CV"
-      href: cv.rmd
+      href: cv.html
