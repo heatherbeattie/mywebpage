@@ -3,7 +3,8 @@ author: "Heather Beattie"
 output_dir: "docs"  
 output:  
   html_document:  
-    self_contained: no  
+    self_contained: no
+    css: style.css
     theme: flatly  
 navbar:
   title: "Heather Beattie"
